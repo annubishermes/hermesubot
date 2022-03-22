@@ -1,4 +1,4 @@
- <h1 align="center"><img src="./userbot/resources/GeezFire.gif" width="35px"> 𝐙𝐞𝐞-𝐔𝐬𝐞𝐫𝐛𝐨𝐭 <img src="./userbot/resources/GeezFire.gif" width="35px"></h1>
+ <h1 align="center"><img src="./userbot/resources/GeezFire.gif" width="35px"> �SENSI-𝐔𝐬𝐞𝐫𝐛𝐨𝐭 <img src="./userbot/resources/GeezFire.gif" width="35px"></h1>
 
 
 <a href="https://t.me/dbzea"> <img src="https://img.shields.io/badge/Support Telegram-blue?&logo=telegram" alt="Group on Telegram" /> </a><br>
