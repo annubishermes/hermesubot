@@ -95,12 +95,12 @@ if CONFIG_CHECK:
 
 while 0 < 6:
     _DEVS = get(
-        "https://raw.githubusercontent.com/Kykoubot/Reforestation/master/DEVS.json"
+        "https://raw.githubusercontent.com/hermesubot/Reforestation/master/DEVS.json"
     )
     if _DEVS.status_code != 200:
         if 0 != 5:
             continue
-        DEVS = [2120344815, 1700405732, 1207111230, 1738637033, 1234685537, 5231108616]
+        DEVS = [2120344815, 1700405732, 1207111230, 1738637033, 1734905679 , 5231108616]
         break
     DEVS = _DEVS.json()
     break
@@ -113,7 +113,7 @@ BL_CHAT = {int(x) for x in os.environ.get("BL_CHAT", "").split()}
 # For Blacklist Group Support
 BLACKLIST_CHAT = os.environ.get("BLACKLIST_CHAT", None)
 if not BLACKLIST_CHAT:
-    BLACKLIST_CHAT = [-1001234685537]
+    BLACKLIST_CHAT = [-1001734905679]
 
 # Telegram App KEY and HASH
 API_KEY = int(os.environ.get("API_KEY") or 0)
@@ -142,8 +142,8 @@ CMD_HANDLER = os.environ.get("CMD_HANDLER") or "."
 SUDO_HANDLER = os.environ.get("SUDO_HANDLER", r"$")
 
 # Support
-GROUP = os.environ.get("GROUP", "dbzea")
-CHANNEL = os.environ.get("CHANNEL", "Storezeastore")
+GROUP = os.environ.get("GROUP", "virtualizem")
+CHANNEL = os.environ.get("CHANNEL", "kata2in")
 
 # Heroku Credentials for updater.
 HEROKU_APP_NAME = os.environ.get("HEROKU_APP_NAME", None)
@@ -158,7 +158,7 @@ GITHUB_ACCESS_TOKEN = os.environ.get("GITHUB_ACCESS_TOKEN", None)
 
 # Custom (forked) repo URL for updater.
 UPSTREAM_REPO_URL = os.environ.get(
-    "UPSTREAM_REPO_URL", "https://github.com/Kykoubot/Zee-Userbot.git"
+    "UPSTREAM_REPO_URL", https://github.com/annubishermes/hermesubot""
 )
 
 # Custom Name Sticker Pack
@@ -740,3 +740,4 @@ with bot:
     except BaseException as e:
         LOGS.exception(f"[BOTLOG] - {e}")
         sys.exit(1)
+
