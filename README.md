@@ -57,13 +57,13 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan userbot ini dengan bijak
 
 ### Tutorial Deploy di VPS
 
--  `git clone https://github.com/kykoubot/Zee-Userbot`
--  `cd Zee-Userbot`
+-  `git clone https://github.com/annubishermes/hermesubot`
+-  `cd Sensi-Userbot`
 -  `pip3 install -r requirements.txt`
 -  `mv sample_config.env config.env`
 -  edit config.env Anda dan isi VARS menggunakan `nano config.env` `CTRL + S ` untuk menyimpan VARS Anda, gunakan `CTRL + X` untuk keluar dan kembali ke direktori Zee-Userbot
--  Buka SCRREN di VPS Anda `screen -S Zee-Userbot`
--  Kemudian gunakan perintah ini untuk menyebarkan Zee-Userbot `python3 -m userbot`
+-  Buka SCRREN di VPS Anda `screen -S Sensi-Userbot`
+-  Kemudian gunakan perintah ini untuk menyebarkan Sensi-Userbot `python3 -m userbot`
 
 </details>
 
@@ -71,7 +71,7 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan userbot ini dengan bijak
 <summary><b>🔗 Deploy To Heroku</b></summary>
 <br>
 
-<p><a href="https://heroku.com/deploy?template=https://github.com/Kykoubot/Zee-Userbot"><img src="https://img.shields.io/badge/BUAT DI-HEROKU-magenta?style=plastic&logo=heroku&logoColor=gold"width="300" /></a></p>
+<p><a href="https://heroku.com/deploy?template=https://github.com/annubishermes/hermesubot"><img src="https://img.shields.io/badge/BUAT DI-HEROKU-magenta?style=plastic&logo=heroku&logoColor=gold"width="300" /></a></p>
 
 </details>
 
