@@ -189,7 +189,7 @@ ANTI_SPAMBOT_SHOUT = sb(os.environ.get("ANTI_SPAMBOT_SHOUT", "False"))
 ALIVE_TEKS_CUSTOM = os.environ.get("ALIVE_TEKS_CUSTOM", "🔥Hey, Saya Aktif🔥")
 
 # Default .alive name
-ALIVE_NAME = os.environ.get("ALIVE_NAME", "Zee")
+ALIVE_NAME = os.environ.get("ALIVE_NAME", "SENSI")
 
 # Custom Emoji Alive
 ALIVE_EMOJI = os.environ.get("ALIVE_EMOJI", "▫️")
@@ -574,13 +574,13 @@ with bot:
                 result = builder.article(
                     title="Repository",
                     description="Repository Sensi - Userbot",
-                    url="https://t.me/kata2in",
+                    url="https://t.me/indraudah",
                     thumb=InputWebDocument(INLINE_PIC, 0, "image/jpeg", []),
                     text="*Sensi - UserBot**\n➖➖➖➖➖➖➖➖➖➖\n✣ **Owner Repo :** [Sensi](https://t.me/indraudah)\n✣ **Support :** @kata2in\n✣ **Repository :** [Sensi-Userbot](https://github.com/annubishermes/hermesubot)\n➖➖➖➖➖➖➖➖➖➖",
                     buttons=[
                         [
                             custom.Button.url("ɢʀᴏᴜᴘ", "https://t.me/indraudah"),
-                            custom.Button.url(
+                            custom.Button.url("chanel"'https://t.me/kata2in"),
                                 "ʀᴇᴘᴏ", "https://github.com/annubishermes/hermesubot"
                             ),
                         ],
@@ -629,7 +629,7 @@ with bot:
                     buttons=[
                         [
                             custom.Button.url("ɢʀᴏᴜᴘ", "https://t.me/virtualizem"),
-                            custom.Button.url(
+                            custom.Button.url("chanel","https://t.me/kata2in
                                 "ʀᴇᴘᴏ", "https://github.com/annubishermes/hermesubot"
                             ),
                         ],
