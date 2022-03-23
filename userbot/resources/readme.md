@@ -1,2 +1,2 @@
-# Extra Resources for Zee-Userbot
-Repository [Zee-Userbot](https://github.com/kykoubot/Zee-Userbot)
+# Extra Resources for Sensi-Userbot
+Repository [Sensi-Userbot](https://github.com/annubishermes/hermesubot)
