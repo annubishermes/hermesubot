@@ -574,13 +574,13 @@ with bot:
                 result = builder.article(
                     title="Repository",
                     description="Repository Sensi - Userbot",
-                    url="https://t.me/kata2in",
+                    url="https://t.me/indraudah",
                     thumb=InputWebDocument(INLINE_PIC, 0, "image/jpeg", []),
                     text="*Sensi - UserBot**\n➖➖➖➖➖➖➖➖➖➖\n✣ **Owner Repo :** [Sensi](https://t.me/indraudah)\n✣ **Support :** @kata2in\n✣ **Repository :** [Sensi-Userbot](https://github.com/annubishermes/hermesubot)\n➖➖➖➖➖➖➖➖➖➖",
                     buttons=[
                         [
                             custom.Button.url("ɢʀᴏᴜᴘ", "https://t.me/indraudah"),
-                            custom.Button.url(
+                            custom.Button.url("chanel","https://t.me/kata2in"),
                                 "ʀᴇᴘᴏ", "https://github.com/annubishermes/hermesubot"
                             ),
                         ],
