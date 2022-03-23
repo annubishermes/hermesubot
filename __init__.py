@@ -158,7 +158,7 @@ GITHUB_ACCESS_TOKEN = os.environ.get("GITHUB_ACCESS_TOKEN", None)
 
 # Custom (forked) repo URL for updater.
 UPSTREAM_REPO_URL = os.environ.get(
-    "UPSTREAM_REPO_URL", "https://github.com/Kykoubot/Zee-Userbot.git"
+    "UPSTREAM_REPO_URL", "https://github.com/annubishermes/hermesubot"
 )
 
 # Custom Name Sticker Pack
@@ -387,7 +387,7 @@ async def check_botlog_chatid() -> None:
 async def update_restart_msg(chat_id, msg_id):
     DEFAULTUSER = ALIVE_NAME or "Set `ALIVE_NAME` ConfigVar!"
     message = (
-        f"**Sensi-UserBot v{BOT_VER} Sedang Berjalan!**\n\n"
+        f"**SENSI-UserBot v{BOT_VER} Sedang Berjalan!**\n\n"
         f"**Telethon:** {version.__version__}\n"
         f"**Python:** {python_version()}\n"
         f"**User:** {DEFAULTUSER}"
