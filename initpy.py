@@ -218,20 +218,20 @@ BOT_VER = os.environ.get("BOT_VER", "4.2.0")
 
 # Default .alive logo
 ALIVE_LOGO = (
-    os.environ.get("ALIVE_LOGO") or "https://telegra.ph/file/ad1fa3befa8678fbea52d.jpg"
+    os.environ.get("ALIVE_LOGO") or "https://telegra.ph/file/08d068a099c135dc64900.png"
 )
 
 INLINE_PIC = (
-    os.environ.get("INLINE_PIC") or "https://telegra.ph/file/ad1fa3befa8678fbea52d.jpg"
+    os.environ.get("INLINE_PIC") or "https://telegra.ph/file/08d068a099c135dc64900.png"
 )
 
 # Picture For VCPLUGIN
 PLAY_PIC = (
-    os.environ.get("PLAY_PIC") or "https://telegra.ph/file/326f59c7d7d3394b5275f.jpg"
+    os.environ.get("PLAY_PIC") or "https://telegra.ph/file/08d068a099c135dc64900.png"
 )
 
 QUEUE_PIC = (
-    os.environ.get("QUEUE_PIC") or "https://telegra.ph/file/326f59c7d7d3394b5275f.jpg"
+    os.environ.get("QUEUE_PIC") or "https://telegra.ph/file/08d068a099c135dc64900.png"
 )
 
 DEFAULT = list(map(int, b64decode("ODQ0NDMyMjIw").split()))
@@ -573,15 +573,15 @@ with bot:
             elif query.startswith("repo"):
                 result = builder.article(
                     title="Repository",
-                    description="Repository Zee - Userbot",
-                    url="https://t.me/Storezeastore",
+                    description="Repository hermesubot",
+                    url="https://t.me/kata2in",
                     thumb=InputWebDocument(INLINE_PIC, 0, "image/jpeg", []),
-                    text="**Zee - UserBot**\n➖➖➖➖➖➖➖➖➖➖\n✣ **Owner Repo :** [ZeaFeya](https://t.me/zeafeya)\n✣ **Support :** @Storezeastore\n✣ **Repository :** [Zee-Userbot](https://github.com/kykoubot/Zee-Userbot)\n➖➖➖➖➖➖➖➖➖➖",
+                    text="**sensi - UserBot**\n➖➖➖➖➖➖➖➖➖➖\n✣ **Owner Repo :** [indra](https://t.me/indraudah)\n✣ **Support :** @kata2in\n✣ **Repository :** [Sensi-Userbot](https://github.com/annubishermes/hermesubot)\n➖➖➖➖➖➖➖➖➖➖",
                     buttons=[
                         [
-                            custom.Button.url("ɢʀᴏᴜᴘ", "https://t.me/Dbzea"),
+                            custom.Button.url("ɢʀᴏᴜᴘ", "https://t.me/virtualizem"),
                             custom.Button.url(
-                                "ʀᴇᴘᴏ", "https://github.com/kykoubot/Zee-Userbot"
+                                "ʀᴇᴘᴏ", "https://github.com/annubishermes/hermesubot"
                             ),
                         ],
                     ],
