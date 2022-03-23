@@ -5,12 +5,12 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/Kykoubot/Zee-Userbot)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-green)](https://GitHub.com/kykoubot/Zee-Userbot/graphs/commit-activity)
 [![CodeFactor](https://www.codefactor.io/repository/github/mrismanaziz/Man-Userbot/badge)](https://www.codefactor.io/repository/github/mrismanaziz/Man-Userbot)
-[![CodeQuality](https://img.shields.io/codacy/grade/a723cb464d5a4d25be3152b5d71de82d?color=blue&logo=codacy)](https://app.codacy.com/gh/kykoubot/Zee-Userbot/dashboard)
+[![CodeQuality](https://img.shields.io/codacy/grade/a723cb464d5a4d25be3152b5d71de82d?color=blue&logo=codacy)(https://app.codacy.com/gh/kykoubot/hermesuserbot/dashboard)
 [![Docker Pulls](https://img.shields.io/docker/pulls/mrismanaziz/man-userbot)](https://hub.docker.com/r/mrismanaziz/man-userbot/tags)
-[![GitHub Forks](https://img.shields.io/github/forks/kykoubot/Zee-Userbot?&logo=github)](https://github.com/kykoubot/Zee-Userbot/fork)
-[![GitHub Stars](https://img.shields.io/github/stars/kykoubot/Zee-Userbot?&logo=github)](https://github.com/kykoubot/Zee-Userbot/stargazers)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=Kykoubot&repo=Zee-Userbot&theme=dark)
-Zee-Userbot adalah userbot Telegram modular yang berjalan di Python3 dengan database sqlalchemy.
+[![GitHub Forks](https://img.shields.io/https://github.com/annubishermes/hermesubot?&logo=github)](https://github.com/annubishermes/hermesubot)
+[![GitHub Stars](https://img.shields.io/https://github.com/annubishermes/hermesubot?&logo=github)](https://github.com/annubishermes/hermesubot/stargazers)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=annubishermes&repo=hermesubot&theme=dark)
+sensi-Userbot adalah userbot Telegram modular yang berjalan di Python3 dengan database sqlalchemy.
 
 Berbasis [Paperplane](https://github.com/RaphielGang/Telegram-UserBot) dan [ProjectBish](https://github.com/adekmaulana/ProjectBish) userbot.
 Saya membuat repository ini untuk memilih dan menambahkan beberapa modul yang saya butuhkan dengan banyak perubahan, fitur dan modul.
@@ -26,9 +26,9 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan userbot ini dengan bijak
 
 ## Tutorial
 
--  [Panduan Cara Memasang Zee-Userbot](https://mrismanaziz.medium.com/cara-memasang-userbot-telegram-repo-man-userbot-deploy-di-heroku-c56d1f8b5537)
+-  [Panduan Cara Memasang sensi-Userbot](https://mrismanaziz.medium.com/cara-memasang-userbot-telegram-repo-man-userbot-deploy-di-heroku-c56d1f8b5537)
 -  [Cara Setting Last.FM modules](https://telegra.ph/How-to-set-up-LastFM-module-for-Paperplane-userbot-11-02)
--  [List Variabel Zee-Userbot](https://telegra.ph/List-Variabel-Heroku-untuk-Man-Userbot-09-22)
+-  [List Variabel sensi-Userbot](https://telegra.ph/List-Variabel-Heroku-untuk-Man-Userbot-09-22)
 
 <details>
 <summary><b>🔗 String Session</b></summary>
@@ -85,7 +85,7 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan userbot ini dengan bijak
 
 ## Update Support
 
-Follow Channel [@Storezeastore](https://t.me/Storezeastore) untuk info Update bot.
+Follow Channel [@kata2in](https://t.me/kata2in) untuk info Update bot.
 
 #### Special Thanks To [Everyone](https://github.com/kykoubot/Zee-Userbot/graphs/contributors) Who Has Helped Make This Userbot Awesome!
 -  [AdekMaulana](https://github.com/adekmaulana) : ProjectBish
@@ -105,4 +105,4 @@ Follow Channel [@Storezeastore](https://t.me/Storezeastore) untuk info Update bo
 -  [Zeasan](https://github.com/kykoubot) for [Zee-Userbot](https://github.com/kykoubot/Zee-Userbot)
 
 ## License
-Licensed under [Raphielscape Public License](https://github.com/kykoubot/Zee-Userbot/blob/Zee-Userbot/LICENSE) - Version 1.d, Maret 2022
+Licensed under [Raphielscape Public License](https://github.com/annubishermes/hermesubot/LICENSE) - Version 1.d, Maret 2022
